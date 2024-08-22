@@ -1,0 +1,1 @@
+import{_ as t,v as s,P as o,x as c,t as a}from"./Th-_kanb.js";const n={},r={class:"h-screen text-white bg-blue-900 CustomLayout"},_=c("p",null,"Custom it is",-1);function l(e,u){return a(),s("div",r,[_,o(e.$slots,"default")])}const i=t(n,[["render",l]]);export{i as default};

@@ -1,0 +1,1 @@
+import{_ as t,v as o,P as s,t as a}from"./Th-_kanb.js";const r={},c={class:"text-white bg-slate-900 DefaultLayout box-border"};function n(e,l){return a(),o("div",c,[s(e.$slots,"default")])}const d=t(r,[["render",n]]);export{d as default};
